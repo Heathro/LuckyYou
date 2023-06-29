@@ -13,4 +13,5 @@ App generate words with unique letters using parameters: length, must-contain le
 
 ## Part 2:
 
+Automation -<br>
 Few features for copying to clipboard sequences of numbers/words, emojies, alphabet, money amounts etc.
