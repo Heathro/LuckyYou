@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word Generator", "Word Generator.csproj", "{9A38B588-FE2F-4EBE-B586-4E1331B1504F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A38B588-FE2F-4EBE-B586-4E1331B1504F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A38B588-FE2F-4EBE-B586-4E1331B1504F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A38B588-FE2F-4EBE-B586-4E1331B1504F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A38B588-FE2F-4EBE-B586-4E1331B1504F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9ADA28B-3974-4825-B2C2-F10F3DDB36EE}
+	EndGlobalSection
+EndGlobal
