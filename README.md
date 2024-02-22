@@ -1,7 +1,6 @@
 # LuckyYou
-Windows desktop application for raffle automation (WPF)
-
----
+Windows desktop application for raffle automation (.Net WPF)<br><br>
+![preview](preview.png)
 
 ## Part 1:
 
